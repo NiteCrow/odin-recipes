@@ -1,0 +1,1 @@
+Basic page to store recipes using absolute and relative links (anchors)
